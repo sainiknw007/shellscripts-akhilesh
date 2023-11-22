@@ -24,7 +24,6 @@ then
 else
  echo "-z $a : string length is not zero"
 fi
-echo "this is add in GitHub main branch"
 
 if [ -n $a ]
 then
