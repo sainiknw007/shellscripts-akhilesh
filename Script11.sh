@@ -19,3 +19,5 @@ fi
 
 echo "I have changed this branch"
 echo "this is new branch batch21-2023"
+echo "this is new code"
+echo "git fetch"

@@ -1,0 +1,11 @@
+#ignore package file
+*.jar
+*.war
+*.ear
+
+#ignore log files commit
+*.log
+
+#ignore Script1.sh file commit.
+Script1.sh
+*.sh
