@@ -31,3 +31,4 @@ then
 else
  echo "-n $a : string length is zero"
 fi
+echo "check github hoook trigger"
