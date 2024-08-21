@@ -3,4 +3,4 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to AWS-DEVOPS"
-echo "Hello batch-1, We are learning AWS DevOps"
+echo "Hello batch-1, We are learning Azure DevOps"
